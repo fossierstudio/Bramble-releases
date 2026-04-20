@@ -1,4 +1,4 @@
-# Grove
+# Bramble
 
 > A multi-tenant, real-time chat platform
 <img width="128" height="128" alt="16484957" src="https://github.com/user-attachments/assets/cdd5b414-e8a1-44ac-8556-ad8d7c61c7b2" />
@@ -7,7 +7,7 @@
 
 ## What it is
 
-Grove is a production-oriented chat backend with an **Expo** (React Native) cross-platform client. Users join **servers** (tenant boundaries), chat in **channels**, and see each other's messages appear live over WebSocket. Profile pictures, presence (online/idle/dnd/offline), typing indicators, reconnect/resume, and per-user rate limiting are all implemented.
+Bramble is a production-oriented chat backend with an **Expo** (React Native) cross-platform client. Users join **servers** (tenant boundaries), chat in **channels**, and see each other's messages appear live over WebSocket. Profile pictures, presence (online/idle/dnd/offline), typing indicators, reconnect/resume, and per-user rate limiting are all implemented.
 
 It is intentionally a **modular monolith** — a single Node.js process today with a clear, documented path to a horizontally-scaled Redis-backed cluster in Phase 2.
 
