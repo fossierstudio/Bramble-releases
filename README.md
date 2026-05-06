@@ -1,7 +1,7 @@
 # Bramble
 
 > A multi-tenant, real-time chat platform
-<img width="128" height="128" alt="16484957" src="https://github.com/user-attachments/assets/cdd5b414-e8a1-44ac-8556-ad8d7c61c7b2" />
+<img width="500" height="250" alt="d184bbc3-4440-4660-8c0c-ff904a73c8eb" src="https://github.com/user-attachments/assets/eb7e4a8a-518e-4a44-b3e7-ee8ec144c026" />
 
 ---
 
