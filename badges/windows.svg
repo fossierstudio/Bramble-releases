@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210" height="56" role="img" aria-label="Download for Windows">
+  <rect width="210" height="56" rx="6" fill="#0078D4"/>
+  <rect x="14" y="14" width="10" height="10" fill="#f25022"/>
+  <rect x="25" y="14" width="10" height="10" fill="#7fba00"/>
+  <rect x="14" y="25" width="10" height="10" fill="#00a4ef"/>
+  <rect x="25" y="25" width="10" height="10" fill="#ffb900"/>
+  <rect x="44" y="10" width="1" height="36" fill="rgba(255,255,255,0.25)"/>
+  <text x="130" y="22" text-anchor="middle" font-family="Verdana,Geneva,sans-serif" font-size="10" fill="rgba(255,255,255,0.75)" letter-spacing="1">DOWNLOAD</text>
+  <text x="130" y="41" text-anchor="middle" font-family="Verdana,Geneva,sans-serif" font-size="15" font-weight="bold" fill="white" letter-spacing="0.5">Windows</text>
+</svg>
