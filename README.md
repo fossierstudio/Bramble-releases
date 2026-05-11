@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<a href="https://github.com/fossierstudio/Bramble-releases/releases/latest/download/Bramble-latest-Setup.exe"><img src="badges/windows.svg" alt="Download for Windows" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/fossierstudio/Bramble-releases/releases/latest/download/Bramble-latest-arm64.dmg"><img src="badges/macos.svg" alt="Download for macOS" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/fossierstudio/Bramble-releases/releases/latest/download/Bramble-latest-x86_64.AppImage"><img src="badges/linux.svg" alt="Download for Linux" /></a>
+<a href="https://github.com/fossierstudio/Bramble-releases/releases/latest/download/Bramble-latest.exe"><img src="badges/windows.svg" alt="Download for Windows" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/fossierstudio/Bramble-releases/releases/latest/download/Bramble-latest-arm64.dmg"><img src="badges/macos.svg" alt="Download for macOS" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/fossierstudio/Bramble-releases/releases/latest/download/Bramble-latest-amd64.deb"><img src="badges/linux.svg" alt="Download for Linux" /></a>
 
 </div>
 
