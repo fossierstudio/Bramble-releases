@@ -1,9 +1,16 @@
 # Bramble
 
+<div align="center">
+
 > A multi-tenant, real-time chat platform
-<img width="633" height="250" alt="d184bbc3-4440-4660-8c0c-ff904a73c8eb" src="https://github.com/user-attachments/assets/eb7e4a8a-518e-4a44-b3e7-ee8ec144c026" />
+
+<img width="700" height="300" alt="d184bbc3-4440-4660-8c0c-ff904a73c8eb" src="https://github.com/user-attachments/assets/eb7e4a8a-518e-4a44-b3e7-ee8ec144c026" />
+
+<br/><br/>
 
 <a href="https://github.com/fossierstudio/Bramble-releases/releases/latest/download/Bramble-Setup.exe"><img src="badges/windows.svg" alt="Download for Windows" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/fossierstudio/Bramble-releases/releases/latest/download/Bramble-arm64.dmg"><img src="badges/macos.svg" alt="Download for macOS" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/fossierstudio/Bramble-releases/releases/latest/download/Bramble-x86_64.AppImage"><img src="badges/linux.svg" alt="Download for Linux" /></a>
+
+</div>
 
 ---
 
