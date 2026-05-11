@@ -3,7 +3,7 @@
 > A multi-tenant, real-time chat platform
 <img width="633" height="250" alt="d184bbc3-4440-4660-8c0c-ff904a73c8eb" src="https://github.com/user-attachments/assets/eb7e4a8a-518e-4a44-b3e7-ee8ec144c026" />
 
-<a href="https://github.com/fossierstudio/Bramble-releases/releases/download/v0.6.0/Bramble-Setup-0.6.0.exe"><img src="badges/windows.svg" alt="Download for Windows" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/fossierstudio/Bramble-releases/releases/download/v0.6.0/Bramble-0.6.0-arm64.dmg"><img src="badges/macos.svg" alt="Download for macOS" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/fossierstudio/Bramble-releases/releases/download/v0.6.0/Bramble-0.6.0-x86_64.AppImage"><img src="badges/linux.svg" alt="Download for Linux" /></a>
+<a href="https://github.com/fossierstudio/Bramble-releases/releases/latest/download/Bramble-Setup.exe"><img src="badges/windows.svg" alt="Download for Windows" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/fossierstudio/Bramble-releases/releases/latest/download/Bramble-arm64.dmg"><img src="badges/macos.svg" alt="Download for macOS" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/fossierstudio/Bramble-releases/releases/latest/download/Bramble-x86_64.AppImage"><img src="badges/linux.svg" alt="Download for Linux" /></a>
 
 ---
 
