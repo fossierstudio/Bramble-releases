@@ -90,3 +90,4 @@ This is the releases repo! Source code will be open source before too long
 - Extensible `ContextMenu` singleton — click your name to edit profile or log out
 - Avatars rendered in: user panel, member sidebar, and every message row
 - Fallback to coloured initial when no avatar is set
+- 
